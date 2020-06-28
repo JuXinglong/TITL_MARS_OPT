@@ -4,6 +4,16 @@ by Xinglong Ju (*xinglong.ju@mavs.uta.edu*); Jay M. Rosenberger (*jrosenbe@uta.e
 Xinglong Ju, Jay M. Rosenberger, Victoria C. P. Chen, and Feng Liu. "TITL MARS OPT Python code". 2020.
 [![DOI](https://zenodo.org/badge/275648852.svg)](https://zenodo.org/badge/latestdoi/275648852)
 
+Xinglong Ju, Jay M. Rosenberger, and Victoria C. P. Chen
+Department of Industrial, Manufacturing, & Systems Engineering
+The University of Texas at Arlington, Arlington, TX 76019, USA
+
+Feng Liu
+Department of Anesthesia, Critical Care and Pain Medicine
+Massachusetts General Hospital, Harvard Medical School, Boston, MA 02114, USA
+The Picower The Picower Institute for Learning and Memory
+Massachusetts Institute of Technology, Cambridge, MA 02139, USA
+
 TITL MARS OPT is short for two-way interaction truncated linear multivariate adaptive regression splines optimization.
 
 This python code is accompanied by "Global optimization using mixed integer quadratic programming on non-convex two-way interaction truncated linear multivariate adaptive regression splines".
