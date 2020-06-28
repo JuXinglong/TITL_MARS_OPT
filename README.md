@@ -1,4 +1,6 @@
 # TITL MARS OPT Python code
+by Xinglong Ju (*xinglong.ju@mavs.uta.edu*); Jay M. Rosenberger (*jrosenbe@uta.edu); Victoria C. P. Chen (*vchen@uta.edu*); Feng Liu(*fliu0@mgh.harvard.edu*).
+
 TITL MARS OPT is short for two-way interaction truncated linear multivariate adaptive regression splines optimization.
 
 This python code is accompanied by "Global optimization using mixed integer quadratic programming on non-convex two-way interaction truncated linear multivariate adaptive regression splines".
