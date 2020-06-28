@@ -4,11 +4,11 @@ by Xinglong Ju (*xinglong.ju@mavs.uta.edu*); Jay M. Rosenberger (*jrosenbe@uta.e
 Xinglong Ju, Jay M. Rosenberger, Victoria C. P. Chen, and Feng Liu. "TITL MARS OPT Python code". 2020.
 [![DOI](https://zenodo.org/badge/275648852.svg)](https://zenodo.org/badge/latestdoi/275648852)
 
-Xinglong Ju, Jay M. Rosenberger, and Victoria C. P. Chen
+Xinglong Ju, Jay M. Rosenberger, and Victoria C. P. Chen<br/>
 Department of Industrial, Manufacturing, & Systems Engineering
 The University of Texas at Arlington, Arlington, TX 76019, USA
 
-Feng Liu
+Feng Liu<br/>
 Department of Anesthesia, Critical Care and Pain Medicine
 Massachusetts General Hospital, Harvard Medical School, Boston, MA 02114, USA
 The Picower The Picower Institute for Learning and Memory
