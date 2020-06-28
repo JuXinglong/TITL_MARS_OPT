@@ -53,6 +53,10 @@ mars.MARS_regress()
 # save the MARS model to a file
 mars.save_mars_model_to_file("TITL_MARS.mars")
 ```
+<p align="center"> 
+    <img width="400" src="/TITL_MARS_model.png" alt="TITL MARS model illustration"/><br/>
+    TITL MARS model illustration.
+</p>
 
 ### TITL MARS Optimization
 ```python
@@ -75,3 +79,7 @@ min1 = mars_opt.min_optimize(mars)
 # [0.15040898573205055, -1.9982908070000007, -8.099636884123703]
 print(min1)
 ```
+<p align="center"> 
+    <img width="400" src="/OPT_result.png" alt="TITL MARS optimization result illustration"/><br/>
+    TITL MARS optimization result illustration.
+</p>
