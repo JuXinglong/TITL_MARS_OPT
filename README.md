@@ -94,5 +94,5 @@ print(min1)
 ```
 <p align="center"> 
     <img width="400" src="/MARS_OPT_result.png" alt="TITL MARS optimization result illustration"/><br/>
-    TITL MARS optimization result illustration.
+    TITL MARS  optimization result illustration.
 </p>
