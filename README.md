@@ -93,6 +93,6 @@ min1 = mars_opt.min_optimize(mars)
 print(min1)
 ```
 <p align="center"> 
-    <img width="400" src="/OPT_result.png" alt="TITL MARS optimization result illustration"/><br/>
+    <img width="400" src="/MARS_OPT_result.png" alt="TITL MARS optimization result illustration"/><br/>
     TITL MARS optimization result illustration.
 </p>
