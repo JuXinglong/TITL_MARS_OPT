@@ -6,7 +6,11 @@ Xinglong Ju, Jay M. Rosenberger, Victoria C. P. Chen, and Feng Liu. "TITL MARS O
 
 Xinglong Ju, Jay M. Rosenberger, Victoria CP Chen, and Feng Liu. "Global optimization using mixed integer quadratic programming on non-convex two-way interaction truncated linear multivariate adaptive regression splines." arXiv preprint arXiv:2006.15707 (2020). [![DOI](/arXiv2006.15707.svg)](https://arxiv.org/abs/2006.15707)<br/>
 
-Xinglong Ju, Jay M. Rosenberger, and Victoria C. P. Chen<br/>
+Xinglong Ju<br/>
+Department of Radiation Oncology
+The University of Texas Southwestern Medical Center, Dallas, TX 75390, USA
+
+Jay M. Rosenberger, and Victoria C. P. Chen<br/>
 Department of Industrial, Manufacturing, & Systems Engineering
 The University of Texas at Arlington, Arlington, TX 76019, USA
 
