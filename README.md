@@ -1,5 +1,5 @@
 # TITL MARS OPT Python code
-by Xinglong Ju (*xinglong.ju@mavs.uta.edu*, *xinglong.ju@utsouthwestern.edu*); Jay M. Rosenberger (*jrosenbe@uta.edu*); Victoria C. P. Chen (*vchen@uta.edu*); Feng Liu (*fliu0@mgh.harvard.edu*).
+by Xinglong Ju (*xinglong.ju@cornell.edu*, *xinglong.ju@mavs.uta.edu*); Jay M. Rosenberger (*jrosenbe@uta.edu*); Victoria C. P. Chen (*vchen@uta.edu*); Feng Liu (*fliu0@mgh.harvard.edu*).
 
 Xinglong Ju, Jay M. Rosenberger, Victoria C. P. Chen, and Feng Liu. "TITL MARS OPT Python code". 2020.
 [![DOI](https://zenodo.org/badge/275648852.svg)](https://zenodo.org/badge/latestdoi/275648852)
@@ -7,8 +7,8 @@ Xinglong Ju, Jay M. Rosenberger, Victoria C. P. Chen, and Feng Liu. "TITL MARS O
 Xinglong Ju, Jay M. Rosenberger, Victoria CP Chen, and Feng Liu. "Global optimization using mixed integer quadratic programming on non-convex two-way interaction truncated linear multivariate adaptive regression splines." arXiv preprint arXiv:2006.15707 (2020). [![DOI](/arXiv2006.15707.svg)](https://arxiv.org/abs/2006.15707)<br/>
 
 Xinglong Ju<br/>
-Department of Radiation Oncology
-The University of Texas Southwestern Medical Center, Dallas, TX 75390, USA
+School of Civil and Environmental Engineering
+Cornell University, Ithaca, NY 14853, USA
 
 Jay M. Rosenberger, and Victoria C. P. Chen<br/>
 Department of Industrial, Manufacturing, & Systems Engineering
