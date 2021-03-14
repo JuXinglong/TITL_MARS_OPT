@@ -7,17 +7,17 @@ Xinglong Ju, Jay M. Rosenberger, Victoria C. P. Chen, and Feng Liu. "TITL MARS O
 Xinglong Ju, Jay M. Rosenberger, Victoria CP Chen, and Feng Liu. "Global optimization using mixed integer quadratic programming on non-convex two-way interaction truncated linear multivariate adaptive regression splines." arXiv preprint arXiv:2006.15707 (2020). [![DOI](/arXiv2006.15707.svg)](https://arxiv.org/abs/2006.15707)<br/>
 
 Xinglong Ju<br/>
-School of Civil and Environmental Engineering
+School of Civil and Environmental Engineering,
 Cornell University, Ithaca, NY 14853, USA
 
 Jay M. Rosenberger, and Victoria C. P. Chen<br/>
-Department of Industrial, Manufacturing, & Systems Engineering
+Department of Industrial, Manufacturing, & Systems Engineering,
 The University of Texas at Arlington, Arlington, TX 76019, USA
 
 Feng Liu<br/>
-Department of Anesthesia, Critical Care and Pain Medicine
-Massachusetts General Hospital, Harvard Medical School, Boston, MA 02114, USA
-The Picower The Picower Institute for Learning and Memory
+Department of Anesthesia, Critical Care and Pain Medicine,
+Massachusetts General Hospital, Harvard Medical School, Boston, MA 02114, USA<br/>
+The Picower The Picower Institute for Learning and Memory,
 Massachusetts Institute of Technology, Cambridge, MA 02139, USA
 
 TITL MARS OPT is short for two-way interaction truncated linear multivariate adaptive regression splines optimization.
